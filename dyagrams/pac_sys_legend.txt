@@ -1,0 +1,3 @@
+blue - ground
+red - 24V
+white - DI/DO
