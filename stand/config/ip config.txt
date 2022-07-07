@@ -1,0 +1,7 @@
+set network intarface to any ip (probably) we did 10.1.1.10 (255.0.0.0 mask)
+set target physical port to ethernet at network interface ip (10.1.1.10)
+set pac ethernet interface ip to same ip (10.1.1.10)
+set profinet ip to default address 192.168.0.100
+set profinet ip auto-assign range to 192.168.0.1 -> 192.168.0.254
+add EPXPNS001 expansion module used on the kart and set ip to 192.168.0.2
+press Connect and pray
