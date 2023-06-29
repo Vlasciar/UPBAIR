@@ -1,0 +1,111 @@
+/**
+ * jQuery Filepicker CSS 1.0.0
+ *
+ * (c) HazzardWeb <hazzardweb@gmail.com>
+ *
+ * For the full copyright and license information, please visit:
+ * http://codecanyon.net/licenses/standard
+ */
+
+.fileinput {
+	display: inline-block;
+	position: relative;
+	overflow: hidden;
+
+	input {
+		position: absolute;
+		top: 0;
+		right: 0;
+		margin: 0;
+		padding: 0;
+		font-size: 20px;
+		cursor: pointer;
+		opacity: 0;
+		filter: alpha(opacity=0);
+	}
+}
+
+.drop-window {
+	pointer-events: none;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: rgba(0,86,132,.9);
+	z-index: 250000;
+	display: none;
+	text-align: center;
+	-webkit-transition: opacity 250ms;
+	transition: opacity 250ms;
+
+	.drop-window-content {
+		position: absolute;
+		top: 10px;
+		left: 10px;
+		right: 10px;
+		bottom: 10px;
+		border: 1px dashed #fff;
+
+		h3 {
+			margin: -.5em 0 0;
+			position: absolute;
+			top: 50%;
+			left: 0;
+			right: 0;
+			-webkit-transform: translateY(-50%);
+			-ms-transform: translateY(-50%);
+			transform: translateY(-50%);
+			font-size: 40px;
+			color: #fff;
+			padding: 0;
+		}
+	}
+}
+
+/* Webcam plugin */
+
+.camera {
+	display: none;
+
+	video {
+		width: 100% !important;
+		height: auto !important;
+		max-width: 568px;
+	}
+}
+
+/* Crop plugin */
+
+.crop-preview {
+	display: none;
+
+	>img {
+		max-width: 100%;
+		height: auto;
+		max-height: 400px;
+		display: block;
+		margin: 0 auto;
+
+		@media (max-width: 768px) {
+			min-width: 90%;
+		}
+	}
+}
+
+/* Jcrop */
+
+.jcrop-keymgr {
+	opacity: 0;
+}
+
+.jcrop-vline, .jcrop-hline {
+	background: #000;
+	opacity: 1 !important;
+}
+
+.jcrop-handle {
+	background-color: #fff;
+	opacity: 1 !important;
+	border: 1px #333 solid;
+}

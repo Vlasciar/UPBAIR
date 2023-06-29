@@ -1,0 +1,12 @@
+{
+	"require": {
+		"hazzard/config": "dev-master",
+		"symfony/http-foundation": "2.6.*",
+		"intervention/image": "2.1.*"
+	},
+	"autoload": {
+		"psr-4": {
+			"Hazzard\\Filepicker\\": "uploader/src/"
+		}
+	}
+}

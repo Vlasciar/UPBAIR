@@ -1,0 +1,22 @@
+# Change Log
+
+##  1.0.5 (2015-11-01)
+- Add `reject_file_types` option to reject certain file types (Uploader.php).
+	
+##  1.0.4 (2015-07-23)
+- Fix method call (Handler.php)
+- Pass quality param (Handler.php)
+
+## 1.0.3 (2015-06-25)
+- Use old PHP 5.3 array syntax (Uploader.php).
+	
+## 1.0.2 (2015-06-19)
+- Fix autoload bug from the 1.0.1 update (vendor/composer).
+	
+## 1.0.1 (2015-06-13)
+- Fix events array (Handler.php).
+- Add `Handler::getUploader` method.
+- Pass files array (jquery.filepicker.js).
+
+## 1.0.0 (2015-05-22)
+- Initial release.

@@ -1,0 +1,79 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('fonts/icomoon.eot?60v79q');
+  src: url('fonts/icomoon.eot?#iefix60v79q') format('embedded-opentype'),
+  		 url('fonts/icomoon.woff?60v79q') format('woff'),
+  		 url('fonts/icomoon.ttf?60v79q') format('truetype'),
+  		 url('fonts/icomoon.svg?60v79q#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+[class^="icon-file-"],
+[class*=" icon-file-"] {
+  font-family: 'icomoon';
+  speak: none;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  vertical-align: middle;
+  color: #6d7489;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+[class^="icon-file-"]:before,
+[class*=" icon-file-"]:before {
+  content: "\f016";
+}
+.icon-file-txt:before {
+  content: "\f0f6";
+}
+.icon-file-pdf:before {
+  content: "\f1c1";
+}
+.icon-file-doc:before,
+.icon-file-docx:before,
+.icon-file-rtf:before {
+  content: "\f1c2";
+}
+.icon-file-xls:before,
+.icon-file-xlsx:before {
+  content: "\f1c3";
+}
+.icon-file-ppt:before,
+.icon-file-pptx:before {
+  content: "\f1c4";
+}
+.icon-file-jpg:before,
+.icon-file-jpeg:before,
+.icon-file-png:before,
+.icon-file-gif:before,
+.icon-file-bmp:before,
+.icon-file-psd:before,
+.icon-file-ai:before {
+  content: "\f1c5";
+}
+.icon-file-zip:before,
+.icon-file-rar:before,
+.icon-file-tgz:before {
+  content: "\f1c6";
+}
+.icon-file-mp3:before,
+.icon-file-aac:before,
+.icon-file-wav:before {
+  content: "\f1c7";
+}
+.icon-file-mp4:before,
+.icon-file-mpg:before,
+.icon-file-avi:before,
+.icon-file-flv:before {
+  content: "\f1c8";
+}
+.icon-file-html:before,
+.icon-file-js:before,
+.icon-file-css:before,
+.icon-file-sql:before {
+  content: "\f1c9";
+}
