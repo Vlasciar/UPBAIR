@@ -1,0 +1,8 @@
+﻿<!-- ::: Created by BUT nv - www.but.be ::: -->
+<application>
+	<defaultLang>EN</defaultLang>
+	<friendlyName>AC_Catamaran</friendlyName>
+	<OTTPath>xml/</OTTPath> <!-- path or url to MasterSwitch xml file -->
+	<masterSwitchMode>read only (XML)</masterSwitchMode><!--"read only (XML)", "read/write (DB)" or "disabled"-->
+	<devMode>true</devMode>
+</application>

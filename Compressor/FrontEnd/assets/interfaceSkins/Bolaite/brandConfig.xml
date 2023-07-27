@@ -1,0 +1,39 @@
+<config>
+	<!-- default selected languages -->
+	<languages>
+		<lang defaultName="English" />
+<!--		<lang defaultName="Bulgarian" />-->
+<!--		<lang defaultName="Czech" />-->
+<!--		<lang defaultName="Danish" />-->
+<!--		<lang defaultName="German" />-->
+<!--		<lang defaultName="Greek" />-->
+<!--		<lang defaultName="Spanish" />-->
+<!--		<lang defaultName="Estonian" />-->
+<!--		<lang defaultName="Finnish" />	-->
+<!--		<lang defaultName="French" />-->
+<!--		<lang defaultName="Hungarian" />-->
+<!--		<lang defaultName="Italian" />-->
+<!--		<lang defaultName="Lithuanian" />-->
+<!--		<lang defaultName="Latvian" />	-->
+<!--		<lang defaultName="Dutch" />-->
+<!--		<lang defaultName="Norwegian" />-->
+<!--		<lang defaultName="Polish" />-->
+<!--		<lang defaultName="Portuguese" />-->
+<!--		<lang defaultName="Portuguese (Braz.) " />-->
+<!--		<lang defaultName="Romanian" />-->
+<!--		<lang defaultName="Russian" />-->
+<!--		<lang defaultName="Slovak" />-->
+<!--		<lang defaultName="Slovenian" />-->
+<!--		<lang defaultName="Swedish" />	-->
+<!--		<lang defaultName="Turkish" />-->
+		<lang defaultName="Chinese" />
+<!--		<lang defaultName="Japanese" />-->	
+	</languages>
+    <!-- default directory for saving the cd image xml files -->
+    <defaultSaveDirectory location="O:\Z\workgroups\ZMI-LIBRARY\CATAMARAN\XML\Bolaite" /> 
+    <!-- default directory for exporting the cd content -->
+    <defaultExportDirectory location="O:\Z\workgroups\ZMI-LIBRARY\CATAMARAN\0 Bolaite" />
+    
+    <!-- argb color value -->
+    <printColor color="0x1967b2" />
+</config>

@@ -1,0 +1,54 @@
+<!-- BUT FONT MANAGER v1.00 -->
+<fonts>
+	<languages>
+		<CS set="roman"/>	
+		<BG set="chinese"/>	
+		<DA set="roman"/>			
+		<DE set="roman"/>		
+		<EN set="roman"/>
+		<EL set="chinese"/>
+		<ES set="roman"/>
+		<ET set="roman"/>
+		<FI set="roman"/>		
+		<FR set="roman"/>		
+		<HU set="roman"/>	
+		<IL set="hebrew"/>	
+		<IT set="roman"/>
+		<PL set="roman"/>
+		<PT set="roman"/>		
+		<PB set="roman"/>
+		<LT set="roman"/>
+		<LV set="roman"/>
+		<NO set="roman"/>
+		<NL set="roman"/>
+		<RO set="roman"/>
+		<RU set="chinese"/>		
+		<SK set="roman"/>		
+		<SL set="roman"/>
+		<SV set="roman"/>
+		<TR set="roman"/>
+		<ZH set="chinese"/>
+		<JP set="chinese"/>
+	</languages>
+	<sets>
+		<roman rtl="false">
+			<f url="BUT_ArialBlack_roman.swf"/>
+			<f url="BUT_Arial_roman.swf"/>
+			<f url="BUT_Univers_roman.swf"/>
+			<f url="BUT_Wingdings_roman.swf"/>
+			<f url="BUT_UniversCondensed_roman.swf"/>
+			<f url="BUT_Univers_roman.swf"/>
+		</roman>
+		<chinese rtl="false">
+			<f url="BUT_ArialBlack_roman.swf"/>
+			<f url="BUT_Arial_roman.swf"/>
+			<f url="BUT_Univers_chinese.swf"/>
+			<f url="BUT_Wingdings_roman.swf"/>
+			<f url="BUT_UniversCondensed_chinese.swf"/>
+			<f url="BUT_Univers_roman.swf"/>
+		</chinese>
+		<hebrew rtl="true">
+			<f url="BUT_Arial_hebrew.swf"/>
+		</hebrew>
+	</sets>
+</fonts>

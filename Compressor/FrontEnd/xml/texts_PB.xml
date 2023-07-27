@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<texts lang="PB" type="text" friendlyName="AC_Catamaran">
+	<f name="AIB" type="html" upd="2007-11-20 11:33:46.730" updUser="patrickH@but.be">
+		<![CDATA[Manual de instruções]]>
+	</f>
+	<f name="ASL" type="html" upd="2007-11-20 10:42:35.033" updUser="patrickH@but.be">
+		<![CDATA[Lista de peças sobressalentes]]>
+	</f>
+	<f name="Varia" type="html" upd="2007-11-20 10:43:21.297" updUser="patrickH@but.be">
+		<![CDATA[Diversos]]>
+	</f>
+	<f name="but_end_txt" type="html" upd="2007-11-20 10:12:18.403" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Univers Condensed" SIZE="44" COLOR="#1A9BC3" LETTERSPACING="0" KERNING="0">We are committed to your</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Univers Condensed" SIZE="44" COLOR="#1A9BC3" LETTERSPACING="0" KERNING="0">superior productivity through</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Univers Condensed" SIZE="44" COLOR="#1A9BC3" LETTERSPACING="0" KERNING="0">interaction and innovation.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="but_madeby" type="html" upd="2007-11-20 10:44:07.733" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="BUT_Arial" SIZE="12" COLOR="#535353" LETTERSPACING="0" KERNING="0">feito por</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="contentCompo_file_txt" type="text" upd="2007-11-20 10:44:45.217" updUser="patrickH@but.be">
+		<![CDATA[ARQUIVO]]>
+	</f>
+	<f name="contentCompo_glossary2_txt" type="html" upd="2007-11-20 10:45:21.747" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0">Glossário de nomes de peças EN-NL-FR-DE-ES-SV-IT-NO-DA-EL-PT-FI</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="contentCompo_glossary_txt" type="html" upd="2007-11-20 10:45:34.450" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0">Glossário de nomes de peças EN-CS-ET-HU-LT-LV-PL-SK-SL</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="contentCompo_info_txt" type="html" upd="2007-11-20 10:12:18.450" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="14" COLOR="#D26830" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="contentCompo_instructionsForUse_txt" type="html" upd="2007-11-20 10:46:37.680" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0">Instruções de uso</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="contentCompo_noFile_txt" type="html" upd="2007-11-20 10:47:17.413" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers" SIZE="12" COLOR="#0C97C9" LETTERSPACING="0" KERNING="0">NÃO</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="contentCompo_open_txt" type="text" upd="2007-11-20 10:47:50.677" updUser="patrickH@but.be">
+		<![CDATA[ABRIR]]>
+	</f>
+	<f name="contentCompo_relevantFiles_txt" type="text" upd="2007-11-20 10:48:19.647" updUser="patrickH@but.be">
+		<![CDATA[Arquivos relevantes]]>
+	</f>
+	<f name="disclamer_disclamer_ABAC_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright ABAC,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_AGRE_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright AGRE,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_ALUP_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright ALUP,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_BALMA_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright BALMA,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_BASIC_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyrighted,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_BeaconMedaes_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright BeaconMedæs,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_Bolaite_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright Bolaite,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_CECCATO_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright Ceccato,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_CP_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright CP,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_Creemers_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright Creemers Compressors,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_GRASSAIR_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright Grassair,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_LIUTECH_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright Liutech,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_MARK_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright MARK,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_MAUGUIERE_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright Mauguière,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_PUSKA_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright PUSKA,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_Pneumatech_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright Pneumatech,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_Quincy_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright Quincy,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_Worthington_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright Worthington,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_txt" type="html" upd="2007-11-20 10:49:21.080" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright 2007, Atlas Copco Airpower n.v., Antwerp, Belgium.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Qualquer usoou cópia não autorizada do conteúdo ou de qualquer parte aqui contida é proibida. Isso se aplica em especial a marcas registradas, denominações de modelos, números de peça e desenhos.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_uitleg_txt" type="html" upd="2007-11-20 10:50:00.143" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#0099CC" LETTERSPACING="0" KERNING="0">Isenção de responsabilidade</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="fileFound" type="html" upd="2007-11-20 10:50:33.470" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#AFB4B9" LETTERSPACING="0" KERNING="0">É preciso ter pelo menos o Acrobat Reader 6.0 para abrir este arquivo.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="fileLanguagenotFound" type="html" upd="2007-11-20 10:51:01.563" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#AFB4B9" LETTERSPACING="0" KERNING="0">Não há nenhum manual disponível no seu idioma. A tabela a seguir mostra uma visão geral das versões disponíveis nos outros idiomas.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="filenotFoundCheckOtherLang" type="html" upd="2007-11-20 10:51:23.530" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#AFB4B9" LETTERSPACING="0" KERNING="0">O manual disponível no seu idioma específico não é a versão mais recente.  A tabela a seguir mostra uma visão geral da versão mais recente disponível nos outros idiomas.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="glossary" type="html" upd="2011-01-17 11:28:31.160" updUser="tomG">
+		<![CDATA[Glossário]]>
+	</f>
+	<f name="installationManual" type="text" upd="2007-11-20 10:51:49.483" updUser="patrickH@but.be">
+		<![CDATA[Manual de instalação]]>
+	</f>
+	<f name="instructionsForUse_instructionsForUse_txt" type="html" upd="2007-11-20 10:12:18.560" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0"><B>1  ENCOMENDANDO PEÇAS</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0">Sempre especifique o número da peça, o nome e a quantidade dos itens necessários, assim como o tipo e o número de série da máquina.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0"><img src="Service-symbol.gif" vspace="0" hspace="0" >Páginas marcadas com o símbolo Serviço contêm peças do(s) Kit(s) de serviço. Para conhecer o conteúdo completo do kit, consulte o capítulo “1 - Kits de serviço”.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0"><B>2  INFORMAÇÕES SOBRE AS COLUNAS</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0"><B>Ref. - Número de referência:</B> indica onde está uma peça específica listada no desenho.  Somente peças com número de referência são mostradas no desenho. As peças no desenho que não têm um número de referência destinam-se simplesmente a ilustrar o conjunto.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0"><B>Número da peça - Número da peça:</B>se nenhum número de peça estiver especificado, o componente não está disponível como peça sobressalente.  Uma linha mostrada em negrito é um conjunto. Uma peça cujo número seja seguido por um ponto preto faz parte do conjunto impresso em negrito imediatamente acima dela. O símbolo “&lt;&lt;&lt; >>>” direciona para outra lista com o mesmo título, como “Nome”. Quando o número de peça específico é colocado abaixo da linha “Ref.”/”Nome”, é preciso escolher o tipo/versão da máquina.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0"><B>Qtd - Quantidade:</B> indica o número de peças e os números de referência correspondentes.  "CS" significa "Conforme solicitado": a quantidade ou o número a ser determinado.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0"><B>Nome - Nome da peça:</B> as traduções dos nomes em inglês podem ser encontradas no documento “Glossário de nomes de peças”.</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0"><B>Observações</B>  - Informações extras sobre a peça. Uma série de letras pode indicar que uma determinada peça é certificada pelo órgão autorizado específico, de acordo com os códigos ou as regras da lista.  As medidas são fornecidas em milímetros.</P></TEXTFORMAT>]]>
+	</f>
+	<f name="instructionsForUse_uitleg_txt" type="html" upd="2007-11-20 10:52:47.060" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#0099CC" LETTERSPACING="0" KERNING="0">Instruções de uso</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#0099CC" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="interface_changeLang_txt" type="html" upd="2007-11-20 10:53:26.433" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="BUT_Univers" SIZE="11" COLOR="#68676C" LETTERSPACING="0" KERNING="0">Alterar idioma</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="interface_disclaimer_txt" type="html" upd="2007-11-20 10:54:14.680" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="BUT_Univers" SIZE="12" COLOR="#68676C" LETTERSPACING="0" KERNING="0">Isenção de responsabilidade</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="interface_needAcrobat_txt" type="html" upd="2007-11-20 10:54:38.477" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="BUT_Univers" SIZE="11" COLOR="#68676C" LETTERSPACING="0" KERNING="0">Instalar Acrobat Reader 7.0.9</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="interface_websiteUrl" type="html" upd="2007-11-20 10:12:18.620" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers" SIZE="11" COLOR="#68676C" LETTERSPACING="0" KERNING="0">www.atlascopco.com<FONT COLOR="#000000"></FONT></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="otherFiles_otherFiles_txt" type="text" upd="2007-11-20 10:55:11.273" updUser="patrickH@but.be">
+		<![CDATA[Outros arquivos]]>
+	</f>
+	<f name="safetyPrecautions" type="html" upd="2007-11-20 10:55:42.790" updUser="patrickH@but.be">
+		<![CDATA[Precauções de segurança]]>
+	</f>
+	<f name="selectYourLanguage" type="text" upd="2007-11-20 10:56:07.037" updUser="patrickH@but.be">
+		<![CDATA[Selecionar seu idioma]]>
+	</f>
+	<f name="serviceKits" type="html" upd="2007-11-20 10:56:35.567" updUser="patrickH@but.be">
+		<![CDATA[Kits de serviços]]>
+	</f>
+	<f name="taal_all" type="text" upd="2007-11-20 10:56:56.003" updUser="patrickH@but.be">
+		<![CDATA[todos]]>
+	</f>
+	<f name="taal_bg" type="html" upd="2007-11-20 10:57:14.817" updUser="patrickH@but.be">
+		<![CDATA[Búlgaro]]>
+	</f>
+	<f name="taal_cs" type="text" upd="2007-11-20 10:57:42.160" updUser="patrickH@but.be">
+		<![CDATA[Tcheco]]>
+	</f>
+	<f name="taal_da" type="html" upd="2007-11-20 10:58:02.097" updUser="patrickH@but.be">
+		<![CDATA[Dinamarquês]]>
+	</f>
+	<f name="taal_de" type="html" upd="2007-11-20 10:58:30.533" updUser="patrickH@but.be">
+		<![CDATA[Alemão]]>
+	</f>
+	<f name="taal_el" type="html" upd="2007-11-20 10:58:54.220" updUser="patrickH@but.be">
+		<![CDATA[Grego]]>
+	</f>
+	<f name="taal_en" type="text" upd="2007-11-20 10:59:25.813" updUser="patrickH@but.be">
+		<![CDATA[Inglês]]>
+	</f>
+	<f name="taal_es" type="html" upd="2007-11-20 11:00:16.140" updUser="patrickH@but.be">
+		<![CDATA[Espanhol]]>
+	</f>
+	<f name="taal_et" type="text" upd="2007-11-20 11:00:45.747" updUser="patrickH@but.be">
+		<![CDATA[Estoniano]]>
+	</f>
+	<f name="taal_fi" type="text" upd="2007-11-20 11:01:00.230" updUser="patrickH@but.be">
+		<![CDATA[Finlandês]]>
+	</f>
+	<f name="taal_fr" type="text" upd="2007-11-20 11:01:30.260" updUser="patrickH@but.be">
+		<![CDATA[Francês]]>
+	</f>
+	<f name="taal_hr" type="text" upd="2007-11-20 11:01:30.260" updUser="patrickH@but.be">
+		<![CDATA[Croata]]>
+	</f>
+	<f name="taal_hu" type="text" upd="2007-11-20 11:01:56.933" updUser="patrickH@but.be">
+		<![CDATA[Húngaro]]>
+	</f>
+	<f name="taal_it" type="text" upd="2007-11-20 11:02:19.697" updUser="patrickH@but.be">
+		<![CDATA[Italiano]]>
+	</f>
+	<f name="taal_ja" type="html" upd="2007-11-20 11:02:39.290" updUser="patrickH@but.be">
+		<![CDATA[Japonês]]>
+	</f>
+	<f name="taal_lt" type="text" upd="2007-11-20 11:03:05.540" updUser="patrickH@but.be">
+		<![CDATA[Lituano]]>
+	</f>
+	<f name="taal_lv" type="text" upd="2007-11-20 11:03:31.790" updUser="patrickH@but.be">
+		<![CDATA[Letão]]>
+	</f>
+	<f name="taal_nl" type="text" upd="2007-11-20 11:03:49.430" updUser="patrickH@but.be">
+		<![CDATA[Holandês]]>
+	</f>
+	<f name="taal_no" type="html" upd="2007-11-20 11:04:09.617" updUser="patrickH@but.be">
+		<![CDATA[Norueguês]]>
+	</f>
+	<f name="taal_pb" type="text" upd="2007-11-20 10:12:18.730" updUser="tomg@but.be">
+		<![CDATA[Português do Brasil]]>
+	</f>
+	<f name="taal_pl" type="text" upd="2007-11-20 11:04:37.287" updUser="patrickH@but.be">
+		<![CDATA[Polonês]]>
+	</f>
+	<f name="taal_pt" type="html" upd="2007-11-20 11:05:16.630" updUser="patrickH@but.be">
+		<![CDATA[Português]]>
+	</f>
+	<f name="taal_ro" type="html" upd="2007-11-20 11:05:36.237" updUser="patrickH@but.be">
+		<![CDATA[Romeno]]>
+	</f>
+	<f name="taal_ru" type="text" upd="2007-11-20 10:12:18.857" updUser="patrickH@but.be">
+		<![CDATA[Russo]]>
+	</f>
+	<f name="taal_sk" type="text" upd="2007-11-20 11:25:31.513" updUser="patrickH@but.be">
+		<![CDATA[Eslovaco]]>
+	</f>
+	<f name="taal_sl" type="text" upd="2007-11-20 11:25:50.183" updUser="patrickH@but.be">
+		<![CDATA[Esloveno]]>
+	</f>
+	<f name="taal_sv" type="html" upd="2007-11-20 11:26:20.590" updUser="patrickH@but.be">
+		<![CDATA[Sueco]]>
+	</f>
+	<f name="taal_tr" type="html" upd="2007-11-20 11:26:41.290" updUser="patrickH@but.be">
+		<![CDATA[Turco]]>
+	</f>
+	<f name="taal_undefined" type="text" upd="2007-11-20 11:27:06.197" updUser="patrickH@but.be">
+		<![CDATA[Desconhecido]]>
+	</f>
+	<f name="taal_zh" type="html" upd="2007-11-20 11:27:32.633" updUser="patrickH@but.be">
+		<![CDATA[Chinês]]>
+	</f>
+	<f name="table_lang_txt" type="text" upd="2007-11-20 11:27:53.587" updUser="patrickH@but.be">
+		<![CDATA[Idioma]]>
+	</f>
+	<f name="table_version_txt" type="text" upd="2007-11-20 11:28:16.507" updUser="patrickH@but.be">
+		<![CDATA[Número da versão]]>
+	</f>
+	<f name="uitlegCompo_prod_txt" type="text" upd="2007-11-20 11:28:40.037" updUser="patrickH@but.be">
+		<![CDATA[Explicação]]>
+	</f>
+	<f name="uitlegCompo_uitleg_txt" type="text" upd="2007-11-20 11:29:08.960" updUser="patrickH@but.be">
+		<![CDATA[Bem-vindo]]>
+	</f>
+	<f name="uitlegCompo_welcome_ABAC_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.abacaircompressors.com para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_AGRE_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.agre.de para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_ALUP_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.alup.com para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_BALMA_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.balma.com para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_BASIC_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.atlascopco.com para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_BeaconMedaes_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.beaconmedaes.com para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_Bolaite_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.sh-bolaite.com.cn para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_CECCATO_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.ceccato-compressors.com para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_CP_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.cp.com para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_Creemers_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.creemers.nl para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_GRASSAIR_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.grassair.nl para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_LIUTECH_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.liutech.com.cn para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_MARK_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.mark-compressors.com para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_MAUGUIERE_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.mauguiere.com para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_PUSKA_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.puska.com para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_Pneumatech_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.pneumatech.com para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_Quincy_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.quincycompressor.com para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_Worthington_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.airwco.com para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_txt" type="html" upd="2007-11-20 11:31:02.533" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Bem-vindo ao USB com a documentação técnica. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Neste USB, você encontrará a literatura técnica sobre a linha de produtos mencionada. Clique nos itens no painel de navegação à esquerda para localizar as informações específicas. </FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Se você tiver mais perguntas, visite www.atlascopco.com para consultar os detalhes de contato da sua região.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="userManual" type="html" upd="2007-11-20 11:31:55.093" updUser="patrickH@but.be">
+		<![CDATA[Manual do usuário]]>
+	</f>
+</texts>
