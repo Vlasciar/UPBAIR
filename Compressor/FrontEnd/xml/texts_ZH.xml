@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<texts lang="ZH" type="text" friendlyName="AC_Catamaran">
+	<f name="AIB" type="html" upd="2007-07-09 11:30:56.340" updUser="patrickH">
+		<![CDATA[使用说明书]]>
+	</f>
+	<f name="ASL" type="html" upd="2007-07-09 11:30:56.357" updUser="patrickH">
+		<![CDATA[零件清单]]>
+	</f>
+	<f name="Varia" type="html" upd="2007-07-09 11:30:56.370" updUser="undefined">
+		<![CDATA[其它]]>
+	</f>
+	<f name="but_end_txt" type="html" upd="2007-07-09 11:30:56.370" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Univers Condensed" SIZE="44" COLOR="#1A9BC3" LETTERSPACING="0" KERNING="0">We are committed to your</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Univers Condensed" SIZE="44" COLOR="#1A9BC3" LETTERSPACING="0" KERNING="0">superior productivity through</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Univers Condensed" SIZE="44" COLOR="#1A9BC3" LETTERSPACING="0" KERNING="0">interaction and innovation.</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="but_madeby" type="html" upd="2007-07-09 11:30:56.387" updUser="tomg@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Arial" SIZE="12" COLOR="#535353" LETTERSPACING="0" KERNING="0">制作者</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="contentCompo_file_txt" type="text" upd="2007-07-09 11:30:56.403" updUser="undefined">
+		<![CDATA[文件]]>
+	</f>
+	<f name="contentCompo_glossary2_txt" type="html" upd="2007-07-09 11:30:56.420" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0">零件名称对照表 EN-NL-FR-DE-ES-SV-IT-NO-DA-EL-PT-FI</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="contentCompo_glossary_txt" type="html" upd="2007-07-09 11:30:56.433" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0">零件名称对照表 EN-CS-ET-HU-LT-LV-PL-SK-SL</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="contentCompo_info_txt" type="html" upd="2007-07-09 11:30:56.450" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="14" COLOR="#D26830" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="contentCompo_instructionsForUse_txt" type="html" upd="2007-07-09 11:30:56.450" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0">使用说明</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="contentCompo_noFile_txt" type="html" upd="2007-07-09 11:30:56.467" updUser="undefined">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers" SIZE="12" COLOR="#0C97C9" LETTERSPACING="0" KERNING="0">无</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="contentCompo_open_txt" type="text" upd="2007-07-09 11:30:56.480" updUser="undefined">
+		<![CDATA[打开]]>
+	</f>
+	<f name="contentCompo_relevantFiles_txt" type="text" upd="2007-07-09 11:30:56.497" updUser="undefined">
+		<![CDATA[相关文件]]>
+	</f>
+	<f name="dimensionDrawings" type="html" upd="2007-07-09 11:28:31.160" updUser="patrickH">
+		<![CDATA[外形尺寸图]]>
+	</f>
+	<f name="disclamer_disclamer_ABAC_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright ABAC,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_AGRE_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright AGRE,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_ALUP_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright ALUP,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_BALMA_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright BALMA,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_BASIC_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyrighted,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_BeaconMedaes_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright BeaconMedæs,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_Bolaite_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright Bolaite,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_CECCATO_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright Ceccato,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_CP_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright CP,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_Creemers_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright Creemers Compressors,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_GRASSAIR_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright Grassair,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_LIUTECH_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright Liutech,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_MARK_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright MARK,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_MAUGUIERE_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright Mauguière,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_PUSKA_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright PUSKA,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_Pneumatech_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright Pneumatech,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_Quincy_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright Quincy,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_Worthington_txt" type="html" upd="2007-07-09 11:28:31.300" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">Copyright Worthington,</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_disclamer_txt" type="html" upd="2007-07-09 11:30:56.497" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">比利时安特卫普阿特拉斯科普柯空气动力公司（Atlas Copco Airpower n.v.）版权所有。发布年份：2007年。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">未经许可，禁止使用或复制本手册中全部或任一部分内容。这尤其适用于商标、机型命名、零件号和图纸。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="disclamer_uitleg_txt" type="html" upd="2007-07-09 11:30:56.513" updUser="undefined">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="16" COLOR="#0099CC" LETTERSPACING="0" KERNING="0">免责声明</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="erratum_WEEE_directive" type="html" upd="2007-07-09 11:28:31.160" updUser="patrickH">
+		<![CDATA[Erratum - WEEE 指示]]>
+	</f>
+	<f name="fileFound" type="html" upd="2007-07-09 11:30:56.513" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="14" COLOR="#AFB4B9" LETTERSPACING="0" KERNING="0">您至少必须具有 Acrobat Reader 6.0 才能打开此文件。</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="fileLanguagenotFound" type="html" upd="2007-07-09 11:30:56.527" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Univers Condensed" SIZE="14" COLOR="#AFB4B9" LETTERSPACING="0" KERNING="0">没有提供使用您的特定语言的手册。 下表概述了使用其它语言的可用版本。</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="filenotFoundCheckOtherLang" type="html" upd="2007-07-09 11:30:56.543" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#AFB4B9" LETTERSPACING="0" KERNING="0">您所指定语言的手册不是最新版本，下表列出了使用其它语言的最新可用版本。</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="glossary" type="html" upd="2011-01-17 11:28:31.160" updUser="tomG">
+		<![CDATA[词汇]]>
+	</f>
+	<f name="installationManual" type="text" upd="2007-07-09 11:30:56.543" updUser="patrickH@but.be">
+		<![CDATA[安装手册]]>
+	</f>
+	<f name="instructionsForUse_instructionsForUse_txt" type="html" upd="2007-07-09 11:30:56.560" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0"><B>1  订购零件</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0">订购零件时必需指定零件号、零件名称、零件数量以及机器的类型和系列号。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0"><img src="Service-symbol.gif" vspace="0" hspace="0" >在标有维修标记 的页上有维修组件的部分内容。该组件的完整内容请参见章节“1 - 维修组件” “1 - Service kits” 。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0"><B>2  每列内容的说明</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0"><B>Ref. - 图示编号：</B>将零件清单中列出的零件与示意图中的该零件相关联。零件清单中仅显示有图示编号的零件。示意图中没有标注图示编号的零件仅用来在图中帮助示意。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0"><B>Part number - 零件号：</B>如果某项没有零件号，则该项不可作为零备件供应。以粗体印刷的零件号表示这是一个装置。编号后面有一个黑点的零件包含在其上面以粗体印刷的装置中。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0">“&lt;&lt;&lt; >>>” 表示该装置的零件清单在手册中以同一名称另外分章单列。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0">如果指定的零件号位于“Ref.”(图示编号)”Name”(零件名称)列上，则订购零件时必须指明机器的类型/版本 。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0"><B>Qty - 数量：</B>显示相应的图示编号的零件个数。“AR”表示“As required”： 即根据需要确定数量。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0"><B>Name - 零件名称：</B>在文件“零件名称对照表”中可以找到对应的英文名称。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0"><B>Remarks</B> - 零件的附注。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="14" COLOR="#000000" LETTERSPACING="0" KERNING="0">一连串的字母表示某一特定零件依照标准或规定的要求已获得指定授权机构的认证。</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="instructionsForUse_uitleg_txt" type="html" upd="2007-07-09 11:30:56.573" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#0099CC" LETTERSPACING="0" KERNING="0">使用说明</FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="interface_changeLang_txt" type="html" upd="2007-07-09 11:30:56.573" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="BUT_Univers" SIZE="11" COLOR="#68676C" LETTERSPACING="0" KERNING="0">更改语言<FONT COLOR="#000000"></FONT></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="interface_disclaimer_txt" type="html" upd="2007-07-09 11:30:56.590" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Univers" SIZE="12" COLOR="#68676C" LETTERSPACING="0" KERNING="0"><B>免责声明</B></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="interface_needAcrobat_txt" type="html" upd="2007-07-09 11:30:56.607" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="BUT_Univers" SIZE="11" COLOR="#68676C" LETTERSPACING="0" KERNING="0">安装 Acrobat Reader 7.0.9<FONT COLOR="#676769"></FONT></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="interface_websiteUrl" type="html" upd="2007-07-09 11:30:56.620" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers" SIZE="11" COLOR="#68676C" LETTERSPACING="0" KERNING="0">www.atlascopco.com<FONT COLOR="#000000"></FONT></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="otherFiles_otherFiles_txt" type="text" upd="2007-07-09 11:30:56.620" updUser="undefined">
+		<![CDATA[其它文件]]>
+	</f>
+	<f name="safetyPrecautions" type="html" upd="2007-07-09 11:30:56.637" updUser="undefined">
+		<![CDATA[安全措施]]>
+	</f>
+	<f name="selectYourLanguage" type="text" upd="2007-07-09 11:30:56.653" updUser="patrickH@but.be">
+		<![CDATA[选择您的语言]]>
+	</f>
+	<f name="serviceDiagrams" type="html" upd="2007-07-09 11:28:31.160" updUser="patrickH">
+		<![CDATA[服务图]]>
+	</f>
+	<f name="serviceKits" type="html" upd="2007-07-09 11:30:56.653" updUser="undefined">
+		<![CDATA[维修包]]>
+	</f>
+	<f name="taal_all" type="text" upd="2007-07-09 11:30:56.670" updUser="tomg@but.be">
+		<![CDATA[全部]]>
+	</f>
+	<f name="taal_bg" type="html" upd="2007-07-09 11:30:56.683" updUser="patrickH@but.be">
+		<![CDATA[保加利亚文]]>
+	</f>
+	<f name="taal_cs" type="text" upd="2007-07-09 11:30:56.700" updUser="tomg@but.be">
+		<![CDATA[捷克文]]>
+	</f>
+	<f name="taal_da" type="html" upd="2007-07-09 11:30:56.700" updUser="patrickH@but.be">
+		<![CDATA[丹麦文]]>
+	</f>
+	<f name="taal_de" type="html" upd="2007-07-09 11:30:56.717" updUser="patrickH@but.be">
+		<![CDATA[德文]]>
+	</f>
+	<f name="taal_el" type="html" upd="2007-07-09 11:30:56.730" updUser="patrickH@but.be">
+		<![CDATA[希腊文]]>
+	</f>
+	<f name="taal_en" type="text" upd="2007-07-09 11:30:56.000" updUser="tomg@but.be">
+		<![CDATA[英文]]>
+	</f>
+	<f name="taal_es" type="html" upd="2007-07-09 11:30:56.747" updUser="patrickH@but.be">
+		<![CDATA[西班牙文]]>
+	</f>
+	<f name="taal_et" type="text" upd="2007-07-09 11:30:56.763" updUser="tomg@but.be">
+		<![CDATA[爱沙尼亚文]]>
+	</f>
+	<f name="taal_fi" type="text" upd="2007-07-09 11:30:56.777" updUser="tomg@but.be">
+		<![CDATA[芬兰文]]>
+	</f>
+	<f name="taal_fr" type="text" upd="2007-07-09 11:30:56.777" updUser="tomg@but.be">
+		<![CDATA[法文]]>
+	</f>
+	<f name="taal_hr" type="text" upd="2007-07-09 11:30:56.777" updUser="tomg@but.be">
+		<![CDATA[克羅地亞]]>
+	</f>
+	<f name="taal_hu" type="text" upd="2007-07-09 11:30:56.793" updUser="tomg@but.be">
+		<![CDATA[匈牙利文]]>
+	</f>
+	<f name="taal_it" type="text" upd="2007-07-09 11:30:56.810" updUser="tomg@but.be">
+		<![CDATA[意大利文]]>
+	</f>
+	<f name="taal_ja" type="html" upd="2007-07-09 11:30:56.823" updUser="patrickH@but.be">
+		<![CDATA[日文]]>
+	</f>
+	<f name="taal_lt" type="text" upd="2007-07-09 11:30:56.823" updUser="tomg@but.be">
+		<![CDATA[立陶宛文]]>
+	</f>
+	<f name="taal_lv" type="text" upd="2007-07-09 11:30:56.840" updUser="tomg@but.be">
+		<![CDATA[拉脱维亚文]]>
+	</f>
+	<f name="taal_nl" type="text" upd="2007-07-09 11:30:56.857" updUser="tomg@but.be">
+		<![CDATA[荷兰文]]>
+	</f>
+	<f name="taal_no" type="html" upd="2007-07-09 11:30:56.857" updUser="patrickH@but.be">
+		<![CDATA[挪威文]]>
+	</f>
+	<f name="taal_pb" type="text" upd="2007-07-09 11:30:56.730" updUser="tomg@but.be">
+		<![CDATA[巴西葡萄牙语]]>
+	</f>
+	<f name="taal_pl" type="text" upd="2007-07-09 11:30:56.870" updUser="tomg@but.be">
+		<![CDATA[波兰文]]>
+	</f>
+	<f name="taal_pt" type="html" upd="2007-07-09 11:30:56.887" updUser="patrickH@but.be">
+		<![CDATA[葡萄牙文]]>
+	</f>
+	<f name="taal_ro" type="html" upd="2007-07-09 11:30:56.903" updUser="patrickH@but.be">
+		<![CDATA[罗马尼亚文]]>
+	</f>
+	<f name="taal_ru" type="text" upd="2007-11-02 10:22:15.040" updUser="patrickH@but.be">
+		<![CDATA[俄文]]>
+	</f>
+	<f name="taal_sk" type="text" upd="2007-07-09 11:30:56.903" updUser="tomg@but.be">
+		<![CDATA[斯洛伐克文]]>
+	</f>
+	<f name="taal_sl" type="text" upd="2007-07-09 11:30:56.920" updUser="tomg@but.be">
+		<![CDATA[斯洛文尼亚文]]>
+	</f>
+	<f name="taal_sv" type="html" upd="2007-07-09 11:30:56.933" updUser="patrickH@but.be">
+		<![CDATA[瑞典文]]>
+	</f>
+	<f name="taal_tr" type="html" upd="2007-07-09 11:30:56.950" updUser="patrickH@but.be">
+		<![CDATA[土耳其文]]>
+	</f>
+	<f name="taal_undefined" type="text" upd="2007-07-09 11:30:56.950" updUser="tomg@but.be">
+		<![CDATA[未知]]>
+	</f>
+	<f name="taal_zh" type="html" upd="2007-07-09 11:30:56.967" updUser="patrickH@but.be">
+		<![CDATA[中文]]>
+	</f>
+	<f name="table_lang_txt" type="text" upd="2007-07-09 11:30:56.980" updUser="undefined">
+		<![CDATA[语言]]>
+	</f>
+	<f name="table_version_txt" type="text" upd="2007-07-09 11:30:56.980" updUser="undefined">
+		<![CDATA[版本号]]>
+	</f>
+	<f name="uitlegCompo_prod_txt" type="text" upd="2007-07-09 11:30:56.997" updUser="undefined">
+		<![CDATA[解释]]>
+	</f>
+	<f name="uitlegCompo_uitleg_txt" type="text" upd="2007-07-09 11:30:57.013" updUser="tims@but.be">
+		<![CDATA[欢迎]]>
+	</f>
+	<f name="uitlegCompo_welcome_ABAC_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.abacaircompressors.com 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_AGRE_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.agre.de 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_ALUP_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.alup.com 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_BALMA_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.balma.com 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_BASIC_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.atlascopco.com 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_BeaconMedaes_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.beaconmedaes.com 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_Bolaite_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.sh-bolaite.com.cn 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_CECCATO_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.ceccato-compressors.com 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_CP_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.cp.com 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_Creemers_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.creemers.nl 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_GRASSAIR_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.grassair.nl 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_LIUTECH_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.liutech.com.cn 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_MARK_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.mark-compressors.com 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_MAUGUIERE_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.mauguiere.com 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_PUSKA_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.puska.com 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_Pneumatech_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.pneumatech.com 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_Quincy_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.quincycompressor.com 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_Worthington_txt" type="html" upd="2007-07-09 11:28:31.817" updUser="tims@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.airwco.com 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="uitlegCompo_welcome_txt" type="html" upd="2007-07-09 11:30:57.013" updUser="patrickH@but.be">
+		<![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">欢迎使用本 USB，其中含有技术文档。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">在本 USB 中，您将找到所述</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">产品系列的有关技术资料。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">请单击左侧导航窗中的各项标题查找指定的内容</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0">如有任何疑问，请登录  www.atlascopco.com 查找您所在区域联系人的详细信息。</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="BUT_Univers Condensed" SIZE="16" COLOR="#000000" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]>
+	</f>
+	<f name="userManual" type="html" upd="2007-07-09 11:30:57.027" updUser="undefined">
+		<![CDATA[User manual]]>
+	</f>
+</texts>

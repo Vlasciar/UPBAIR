@@ -1,0 +1,29 @@
+<languages>
+  <!-- NOTE: default name has to be the name from the isocodes list  -->
+  <lang name="ENGLISH" defaultName="English" defaultOrder="6" locked="false">EN</lang>
+  <!-- !!!! English first, then ORDER all other languages alphabetically BY ISOCODE for UI  !!! -->
+  <lang name="BULGARIA" defaultName="Bulgarian" defaultOrder="0" locked="false">BG</lang>
+  <lang name="ČEŠTINA" defaultName="Czech" defaultOrder="3" locked="false">CS</lang>
+  <lang name="DANSK" defaultName="Danish" defaultOrder="4" locked="false">DA</lang>
+  <lang name="DEUTSCH" defaultName="German" defaultOrder="10" locked="false">DE</lang>
+  <lang name="ΕΛΛΗΝΙΚÁ" defaultName="Greek" defaultOrder="11" locked="false">EL</lang>
+  <lang name="ESPAÑOL" defaultName="Spanish" defaultOrder="25" locked="false">ES</lang>
+  <lang name="EESTI KEEL" defaultName="Estonian" defaultOrder="7" locked="false">ET</lang>
+  <lang name="SUOMI" defaultName="Finnish" defaultOrder="8" locked="false">FI</lang>
+  <lang name="FRANÇAIS" defaultName="French" defaultOrder="9" locked="false">FR</lang>
+  <lang name="MAGYAR" defaultName="Hungarian" defaultOrder="12" locked="false">HU</lang>
+  <lang name="ITALIANO" defaultName="Italian" defaultOrder="13" locked="false">IT</lang>
+  <lang name="LIETUVIŠKAI" defaultName="Lithuanian" defaultOrder="15" locked="false">LT</lang>
+  <lang name="LATVIEŠU" defaultName="Latvian" defaultOrder="16" locked="false">LV</lang>
+  <lang name="NEDERLANDS" defaultName="Dutch" defaultOrder="5" locked="false">NL</lang>
+  <lang name="NORSK" defaultName="Norwegian" defaultOrder="17" locked="false">NO</lang>
+  <lang name="POLSKI" defaultName="Polish" defaultOrder="18" locked="false">PL</lang>
+  <lang name="PORTUGUÊS" defaultName="Portuguese" defaultOrder="19" locked="false">PT</lang>
+  <lang name="ROMANIA" defaultName="Romanian" defaultOrder="21" locked="false">RO</lang>
+  <lang name="РУССКИЙ" defaultName="Russian" defaultOrder="22" locked="false">RU</lang>
+  <lang name="SLOVENSKY" defaultName="Slovak" defaultOrder="23" locked="false">SK</lang>
+  <lang name="SLOVENŠČINA" defaultName="Slovenian" defaultOrder="24" locked="false">SL</lang>
+  <lang name="SVENSKA" defaultName="Swedish" defaultOrder="26" locked="false">SV</lang>
+  <lang name="TÜRKÇE" defaultName="Turkish" defaultOrder="27" locked="false">TR</lang>
+  <lang name="中文" defaultName="Chinese" defaultOrder="1" locked="false">ZH</lang>
+</languages>
